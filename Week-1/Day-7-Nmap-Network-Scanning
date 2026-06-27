@@ -1,0 +1,21 @@
+# Day 7 – Basic Network Scanning
+
+## Objective
+Perform a basic network scan using Nmap and identify open ports.
+
+## Tools Used
+- Nmap
+- Kali Linux Terminal
+
+## Commands Used
+
+```bash
+hostname -I
+nmap localhost
+```
+
+## Practical Task
+Performed a basic Nmap scan on the local machine and identified the available open TCP ports.
+
+## Screenshot
+The attached screenshot shows the Nmap scan results.
