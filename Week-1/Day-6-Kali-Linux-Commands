@@ -1,0 +1,21 @@
+# Day 6 – Linux Commands Practice
+
+## Objective
+Practice basic Linux terminal commands in Kali Linux.
+
+## Tools Used
+- Kali Linux Terminal
+
+## Commands Practiced
+- ls
+- pwd
+- cd
+- mkdir
+- nano
+- chmod
+
+## Practical Task
+Practiced basic Linux commands for file and directory management, text editing, and file permissions.
+
+## Screenshot
+The attached screenshot shows the successful execution of the required Linux commands in the Kali Linux terminal.
