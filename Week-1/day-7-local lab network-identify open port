@@ -1,0 +1,23 @@
+# Day 7 – Basic Network Scanning
+
+## Objective
+Perform a basic network scan using Nmap and identify open ports.
+
+## Tools Used
+- Kali Linux
+- Nmap
+
+## Commands Used
+
+```bash
+python3 -m http.server 8000
+nmap localhost
+```
+
+## Result
+Successfully scanned the local machine using Nmap and identified the open port:
+
+- 8000/tcp – Open (HTTP Server)
+
+## Screenshot
+The attached screenshot shows the Nmap scan results with the open port.
