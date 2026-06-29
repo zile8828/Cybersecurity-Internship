@@ -1,0 +1,9 @@
+nikto -h http://127.0.0.1
+
+
+> The Nikto scan could not be completed because my laptop was unable to run **Windows 11** and **Kali Linux**
+  virtual machines simultaneously due to system hanging issues. Since the **Windows 11 virtual machine was 
+  not running properly**, the web server was not available. As a result, Nikto could not connect to the target 
+    server and displayed the **"Unable to connect"** error. Therefore, the web vulnerability scan could not be 
+      completed in the current lab environment.
+
