@@ -1,0 +1,5 @@
+sqlmap -u "http://127.0.0.1/dvwa/vulnerabilities/sqli/?id=1&Submit=Submit" --batch
+  The SQLMap test could not be completed because the vulnerable lab web application was not available. 
+  My laptop was unable to run both Windows 11 and Kali Linux virtual machines simultaneously due to system hanging issues.
+  As a result, the target web server was not accessible,
+and SQLMap could not connect to the application for SQL Injection testing.
